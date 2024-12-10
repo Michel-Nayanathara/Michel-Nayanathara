@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/in/michel-nayanathara-63084b31b](https://www.linkedin.com/in/michel-nayanathara/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/michel-nayanathara-63084b31b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/michel-nayanathara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/michel-nayanathara-63084b31b" height="30" width="40" /></a>
 <a href="https://fb.com/michel nayanathara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michel nayanathara" height="30" width="40" /></a>
 <a href="https://instagram.com/michel nayanathara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michel nayanathara" height="30" width="40" /></a>
 </p>
